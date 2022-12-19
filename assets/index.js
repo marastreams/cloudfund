@@ -1,6 +1,7 @@
 import createCampaign from './create-campaign.svg';
 import dashboard from './dashboard.svg';
 import logo from './logo.svg';
+import mslogo from './ms-logo.svg';
 import logout from './logout.svg';
 import payment from './payment.svg';
 import profile from './profile.svg';
@@ -12,12 +13,15 @@ import menu from './menu.svg';
 import money from './money.svg';
 import loader from './loader.svg';
 import thirdweb from './thirdweb.png';
+import thinking from './thinking.jpg';
+import projectLogo from './projectLogo.png';
 
 export {
   tagType,
   createCampaign,
   dashboard,
   logo,
+  mslogo,
   logout,
   payment,
   profile,
@@ -28,4 +32,6 @@ export {
   money,
   loader,
   thirdweb,
+  thinking,
+  projectLogo,
 };

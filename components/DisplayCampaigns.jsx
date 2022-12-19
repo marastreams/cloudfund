@@ -16,7 +16,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
 
       <div className="flex flex-wrap mt-[20px] gap-[26px]">
         {isLoading && (
-          <Image src={loader} alt="loader" className="w-[100px] h-[100px] object-contain" />
+          <Image src={loader} alt="loader" w="100px" h="100px" className="w-[100px] h-[100px] object-contain" />
         )}
 
         {!isLoading && campaigns.length === 0 && (
