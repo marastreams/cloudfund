@@ -14,7 +14,7 @@ import money from './money.svg';
 import loader from './loader.svg';
 import thirdweb from './thirdweb.png';
 import thinking from './thinking.jpg';
-import projectLogo from './projectLogo.png';
+import projectLogo from './projectlogo.png';
 
 export {
   tagType,
